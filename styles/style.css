@@ -1,0 +1,15 @@
+.money{
+    font-size: 50px;
+}
+.divtxt{
+    font-size: 20px;
+}
+.smallbtn{
+    height: 40px;
+}
+.vh{
+    height: 100vh !important;
+}
+.bggrad{
+    background-image: linear-gradient(to bottom right, pink, skyblue);
+}
